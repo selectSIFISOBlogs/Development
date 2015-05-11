@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Sitemap">
+  <ConnectionProperties>
+    <Extension>XML</Extension>
+    <ConnectString>http://www.selectsifiso.net/sitemap.xml</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>18fd1551-ffb8-49d1-b2dc-f519290be232</DataSourceID>
+</RptDataSource>
